@@ -1,0 +1,22 @@
+body{
+    background-color:seagreen;
+}
+h1{
+   margin-left:40%;
+   color: black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header{
+    background-color: green;
+}
+.h2 style{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+thead{
+    background-color: green;
+}
+tbody{
+    background-color: white;
+}
